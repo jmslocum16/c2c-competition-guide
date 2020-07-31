@@ -17,12 +17,13 @@ Download the code in this git repository in either of the following ways:
  Then go to the GitHub Repository for the game and click on code, then GitHub Desktop and accept the prompt.
  ![Github desktop](https://user-images.githubusercontent.com/43589228/89078455-16190300-d34a-11ea-84e6-812f8b47a889.png)
 
- Then make sure that it is creating the repo in side of the folder you designated for the game (I.E C2C_Contest)
+ Then make sure that it is creating the repo inside of the folder you designated for the game (I.E C2C_Contest)
  ![Github repo](https://user-images.githubusercontent.com/43589228/89078457-16b19980-d34a-11ea-8a77-1760fc72e458.PNG)
 
- 2. You can just download the files, and move them to the folder you designated for the game (I.E C2C_Contest), then unzip it.
+ 2. You can just download the files
  ![Dl Zip](https://user-images.githubusercontent.com/43589228/89078469-17e2c680-d34a-11ea-83a9-8f40917e1803.png)
  
+ Then move them to the folder you designated for the game (I.E C2C_Contest), then unzip it.
  ![unzip file](https://user-images.githubusercontent.com/43589228/89078464-17e2c680-d34a-11ea-873f-ec15c0e08ac7.PNG)
 
 Open the 'basic_program.py' file in IDLE by navigating to the folder where you saved the files. This is the file you will be modifying to create your program.
