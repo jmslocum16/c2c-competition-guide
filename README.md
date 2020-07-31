@@ -23,7 +23,7 @@ Download the code in this git repository in either of the following ways:
  2. You can just download the files.
  ![Dl Zip](https://user-images.githubusercontent.com/43589228/89078469-17e2c680-d34a-11ea-83a9-8f40917e1803.png)
  
- Then move them to the folder you designated for the game (I.E C2C_Contest), then unzip it.
+ Then move it to the folder you designated for the game (I.E C2C_Contest), then unzip it.
  ![unzip file](https://user-images.githubusercontent.com/43589228/89078464-17e2c680-d34a-11ea-873f-ec15c0e08ac7.PNG)
 
 Open the 'basic_program.py' file in IDLE by navigating to the folder where you saved the files. This is the file you will be modifying to create your program.
