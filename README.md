@@ -17,10 +17,10 @@ Download the code in this git repository in either of the following ways:
  Then go to the GitHub Repository for the game and click on code, then GitHub Desktop and accept the prompt.
  ![Github desktop](https://user-images.githubusercontent.com/43589228/89078455-16190300-d34a-11ea-84e6-812f8b47a889.png)
 
- Then make sure that it is creating the repo inside of the folder you designated for the game (I.E C2C_Contest)
+ Then make sure that it is creating the repo inside of the folder you designated for the game (I.E C2C_Contest).
  ![Github repo](https://user-images.githubusercontent.com/43589228/89078457-16b19980-d34a-11ea-8a77-1760fc72e458.PNG)
 
- 2. You can just download the files
+ 2. You can just download the files.
  ![Dl Zip](https://user-images.githubusercontent.com/43589228/89078469-17e2c680-d34a-11ea-83a9-8f40917e1803.png)
  
  Then move them to the folder you designated for the game (I.E C2C_Contest), then unzip it.
