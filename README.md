@@ -95,7 +95,7 @@ If you navigate to the "Start" page, you can start a game between any two submit
 Work on improving your program to beat the higher difficulty [c2c] programs.
 Brainstorm ideas for strategies, and don't hestitate to reach out in slack if you get stuck!
  - [c2c] Random - This program always plays in a random column, so it's relatively easy to beat
- - [c2c] Easy - This program only plays one way, and doesn't consider how you play
- - [c2c] Medium - This program plays all ways, but still doesn't consider how you play
- - [c2c] Hard - This program plays all ways, and takes into account how you play as well
+ - [c2c] Easy - This program only plays one way to get 4 in a row, and doesn't consider how you play or try to stop you from getting 4 in a row
+ - [c2c] Medium - This program plays all ways to get 4 in a row, but still doesn't consider how you play
+ - [c2c] Hard - This program plays all ways, and tries to balance between getting its own streak of 4, and stopping you from getting 4 in a row
  - [c2c] Expert - Good luck :)
