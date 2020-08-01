@@ -1,9 +1,13 @@
+# Helpful Links
+[Contest Website](http://18.222.83.251:5000/submit)
+TODO slack channel
+
 # Per-Day Milestones
 
 ## Monday 8/3
 Your goal for monday should be to set up your environment
  - Join the slack workspace for the competition (TODO), (optionally) find a partner to make a team (1 or 2 per team), and tell us your team name and team members
- - Start a couple test games on the contest webapp (TODO link) to get an idea for how the website works and what the end goal is
+ - Start a couple test games on the [contest website](http://18.222.83.251:5000/start) to get an idea for how the website works and what the end goal is
  - Set up python and IDLE (if you don't already have python installed)
  - Get the python code running on your computer
  - Submit basic_program.py to the contest website
@@ -80,7 +84,7 @@ When you submit your program, the competition website will run its own tests aga
 Once your program is successfully submitted, you can watch your program play against any other program!
 If you navigate to the "Start" page, you can start a game between any two submitted programs. The Code2College team has provided a number of programs for you to test your program against that have the team name [c2c], but you can also run your program against itself, or against other students' programs, to see how you stack up!
 
-For now, just type in your chosen team name and upload basic_program.py.
+For now, just type in your chosen team name and upload basic_program.py. It should fail the submission, saying that it made an invalid move. That is expected.
 
 ## Day 2
 Once you've modified your program to be a little more interesting, and change the column it plays in depending on the state of the board, you can submit it to the competition website
@@ -88,8 +92,6 @@ Once you've modified your program to be a little more interesting, and change th
 Once your program is successfully submitted, you can watch your program play against any other program!
 
 ![start](https://user-images.githubusercontent.com/43589228/89078462-174a3000-d34a-11ea-8945-922afb700397.png)
-
-If you navigate to the "Start" page, you can start a game between any two submitted programs. The Code2College team has provided a number of programs for you to test your program against that have the team name [c2c], but you can also run your program against itself, or against other students' programs, to see how you stack up!
 
 ## Day 3
 Work on improving your program to beat the higher difficulty [c2c] programs.
