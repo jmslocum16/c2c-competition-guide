@@ -4,7 +4,7 @@ TODO slack channel
 
 # Per-Day Milestones
 
-## Monday 8/3
+## Day 1 - Tuesday 8/4
 Your goal for monday should be to set up your environment
  - Join the slack workspace for the competition (TODO), (optionally) find a partner to make a team (1 or 2 per team), and tell us your team name and team members
  - Start a couple test games on the [contest website](http://18.222.83.251:5000/start) to get an idea for how the website works and what the end goal is
@@ -13,13 +13,22 @@ Your goal for monday should be to set up your environment
  - Submit basic_program.py to the contest website
 These are all described in detail below.
 
-## Tuesday 8/4
+## Day 2 - Wednesday 8/5 (Work Day)
+Work on building your program!
+
+## Day 3 - Thursday 8/6
 Your goal for tuesday should be to improve your program to play in different positions based on the state of the game, and to pass a full submission 
 
-## Wednesday 8/5
+## Day 4 - Friday 8/7
 Your goal for wednesday should be to continue improving your program to try to beat the higher difficulty levels of Code2College provided programs, and test your program against other students' programs. 
 
-## Thursday 8/6
+## Day 5 - Saturday 8/8 (Work Day)
+Work on building your program!
+
+## Day 6 - Sunday 8/9 (Submit your program)
+It's time to submit the program you've been working on!
+
+## Day 7 - Monday 8/10
 It's tournament time! Let us know which program you want to use in the competition, and make some popcorn!
 
 
