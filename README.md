@@ -13,7 +13,7 @@ Your goal for tuesday should be to set up your environment
  - Submit basic_program.py to the contest website
 These are all described in detail below.
 
-## Day 3 - Wednesday 8/5
+## Day 2 - Wednesday 8/5
 Your goal for wednesday should be to improve your program to play in different positions based on the state of the game, and to pass a full submission 
 
 ## Day 3 - Thursday 8/6 (Work Day)
