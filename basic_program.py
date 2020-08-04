@@ -3,7 +3,7 @@
 Your program must implement the run() function to play the game.
 
 The input to the run function is a 2d list representing the current state of the game.
-The return value should be an integer represening the the column index you wish to play your piece, where 0 <= moveColumn < 7. You must play in a column that is not currently "full", meaning if the column already has 6 pieces in it, you cannot play there. There is guaranteed to be at least one valid column to play in.
+The return value should be an integer representing the column index you wish to play your piece, where 0 <= moveColumn < 7. You must play in a column that is not currently "full", meaning if the column already has 6 pieces in it, you cannot play there. There is guaranteed to be at least one valid column to play in.
 
 The board variable is a list of lists. Each item in the first list represents a column in the board (starting from the left and going to the right). It is guaranteed that len(board) == 7.
 Each column list represents all pieces in that column, starting from the bottom, and it is guaranteed that len(column_list) <= 6
