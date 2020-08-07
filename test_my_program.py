@@ -57,7 +57,7 @@ do_test([['R', 'B'], ['R'], [], [], ['B'], ['B'], ['B']])
 do_test([['B', 'B'], ['B'], [], [], ['R'], ['R'], ['R']])
 
 # test plays in a non-full column
-do_test([['B', 'R', 'B', 'R', 'B', 'R'], ['R', 'B', 'R', 'B', 'R', 'B'], ['B', 'R', 'B', 'R', 'B', 'R'], ['R', 'B', 'R', 'B', 'R', 'B'], ['B', 'R', 'B', 'R', 'B', 'R'], ['R', 'B', 'R', 'B', 'R'], ['B', 'R', 'B', 'R', 'B', 'R']])
+do_test([['R', 'B', 'R', 'B', 'R', 'B'], ['R', 'B', 'R', 'B', 'R', 'B'], ['R', 'B', 'R', 'B', 'R', 'B'], ['B', 'R', 'B', 'R', 'B', 'R'], ['R', 'B', 'R', 'B', 'R', 'B'], ['R', 'B', 'R', 'B', 'R'], ['R', 'B', 'R', 'B', 'R', 'B']])
 
 # TODO add my test cases here
 
